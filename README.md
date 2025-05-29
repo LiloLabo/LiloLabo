@@ -1,4 +1,4 @@
-# 🔥 Hardcore Fullstack Developer 🔥
+# Hardcore Fullstack Developer 🔥
 
 <p align="center">
   <a href="https://skillicons.dev">
