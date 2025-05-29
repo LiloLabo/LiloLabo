@@ -1,1 +1,1 @@
-# Fullstack Developer yang malas belajar 🥱
+# Hardcore Fullstack Developer 🥱
