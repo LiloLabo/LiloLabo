@@ -6,10 +6,10 @@
   </a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=LiloLabo&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github" />
-</a>
+<p align="center">
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=LiloLabo&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github" />
+</p>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiloLabo&hide_progress=true&theme=tokyonight&hide_title=true" />
-</a>
+<p align="center">
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiloLabo&hide_progress=true&theme=tokyonight&hide_title=true" />
+</p>
