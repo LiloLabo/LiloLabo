@@ -1,1 +1,1 @@
-# Hardcore Fullstack Developer haha 🔥
+# Hardcore Fullstack Developer 🔥
