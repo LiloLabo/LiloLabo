@@ -1,1 +1,1 @@
-# Hello World! 👋 
+# Fullstack Developer yang malas belajar 🥱
